@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd341bd0-548b-45f1-9d24-d5aaec929de8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/LivroBuilder.java" afterDir="false" />
+    <list default="true" id="fd341bd0-548b-45f1-9d24-d5aaec929de8" name="Changes" comment="Criação de projeto e classes">
+      <change afterPath="$PROJECT_DIR$/src/test/java/builder/LivroBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,11 +39,60 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="builder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LivroBuilderTest.deveRetornarExcecaoParaLivroSemCodigo">
+    <configuration name="LivroBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padrao2-builder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder" />
+      <option name="MAIN_CLASS_NAME" value="builder.LivroBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LivroBuilderTest.deveRetornarExcecaoParaLivroSemCodigo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padrao2-builder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder" />
+      <option name="MAIN_CLASS_NAME" value="builder.LivroBuilderTest" />
+      <option name="METHOD_NAME" value="deveRetornarExcecaoParaLivroSemCodigo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LivroBuilderTest.deveRetornarExcecaoParaLivroSemCodigo" />
+        <item itemvalue="JUnit.LivroBuilderTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665526986795</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação de projeto e classes">
+      <created>1665529295824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665529295824</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação de projeto e classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de projeto e classes" />
   </component>
 </project>
