@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd341bd0-548b-45f1-9d24-d5aaec929de8" name="Changes" comment="Criação de projeto e classes">
-      <change afterPath="$PROJECT_DIR$/src/test/java/builder/LivroBuilderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="fd341bd0-548b-45f1-9d24-d5aaec929de8" name="Changes" comment="Criação de classe de teste">
+      <change afterPath="$PROJECT_DIR$/diagramaDeClasse.mdj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +27,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G0YULdn1vUJTFcoeuJ4sbW1il0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665529295824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criação de classe de teste">
+      <created>1665531464101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665531464101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +132,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Criação de projeto e classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de projeto e classes" />
+    <MESSAGE value="Criação de classe de teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de classe de teste" />
   </component>
 </project>
